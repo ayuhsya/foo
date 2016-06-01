@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Littlebox</string>
+    <string name="btnText">Select Working Hours To</string>
+    <string name="btnText2">Set Working Hours To</string>
+    <string name="button3">Select Working Hours From</string>
+    <string name="btnFromHours">Set Working Hours From</string>
+    <string name="txtPlaceholder">To</string>
+    <string name="setBtn">Set new working hours</string>
+</resources>
